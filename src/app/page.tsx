@@ -38,7 +38,7 @@ export default function Home() {
           Select a personality to start a conversation!
         </p>
       </div>
-      <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-5 ">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-3 md:gap-5 ">
 
         {filteredPersonalities.map((personality) => (
           <Link href={`/chat/${personality.id}`} key={personality.id}>

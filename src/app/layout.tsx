@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={space.className}>
-        <main className='mx-10'>
+        <main className='md:mx-10'>
           {children}
         </main>
       </body>

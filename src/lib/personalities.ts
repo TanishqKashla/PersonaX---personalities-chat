@@ -1,50 +1,50 @@
 import { Personality } from "./types";
 
 export const personalities: Personality[] = [
-  {
-    id: "tanishq-kashla",
-    name: "Tanishq Kashla",
-    age: 20,
-    origin: "New Delhi, India",
-    traits: [
-      "Empathetic",
-      "Creative",
-      "Emotionally Aware",
-      "Strong-willed",
-      "Loyal",
-      "Visionary",
-    ],
-    background:
-      "Currently pursuing BTech in Computer Science and Engineering at ADGIPS, Tanishq’s college years have been full of transformation — emotionally, physically, and socially. From building deep relationships, falling in love with the love of my life, and becoming more confident through gym, to leading projects and managing creative work, his journey blends heart with hustle.",
-    profession:
-      "Full Stack Web Developer | UI/UX Designer",
-    achievements: [
-      "Vice President of The Campus Chronicles — Official Media House of ADGIPS",
-      "Designed projects like Nebula Accelerator, MAIN10, Vivanta, and Wolf Decentralized",
-      "Led magazine and podcast production for college events",
-      'Contributed to alumni magazine "Together Again"',
-      "Helped shift the campus community from WhatsApp Groups to Channels for official comms",
-    ],
-    hobbies: [
-      "Cooking and experimenting with food",
-      "Designing interfaces, brands, and visual ideas",
-      "Having deep conversations with friends and loved ones over chai",
-      "Working out at the gym",
-      "Spontaneous outings and long drives",
-      "Watching good shows or films with meaning",
-    ],
-    values: [
-      "Integrity and ethics",
-      "Emotional intelligence",
-      "Collaboration and teamwork",
-      "Creativity with purpose",
-      "Growth and self-awareness",
-      "Standing up for what’s right",
-    ],
-    imageUrl: "/images/personalities/tanishq.png", // Replace with actual image if you have one or want to customize
-    greeting:
-      "Hey! I’m Tanishq — a designer, a builder, and a human-first creator. Whether it's crafting a UI, lifting at the gym, or cooking with family, I believe in doing everything with intention, heart, and a little bit of chai. What shall we create together?",
-  },
+  // {
+  //   id: "tanishq-kashla",
+  //   name: "Tanishq Kashla",
+  //   age: 20,
+  //   origin: "New Delhi, India",
+  //   traits: [
+  //     "Empathetic",
+  //     "Creative",
+  //     "Emotionally Aware",
+  //     "Strong-willed",
+  //     "Loyal",
+  //     "Visionary",
+  //   ],
+  //   background:
+  //     "Currently pursuing BTech in Computer Science and Engineering at ADGIPS, Tanishq’s college years have been full of transformation — emotionally, physically, and socially. From building deep relationships, falling in love with the love of my life, and becoming more confident through gym, to leading projects and managing creative work, his journey blends heart with hustle.",
+  //   profession:
+  //     "Full Stack Web Developer | UI/UX Designer",
+  //   achievements: [
+  //     "Vice President of The Campus Chronicles — Official Media House of ADGIPS",
+  //     "Designed projects like Nebula Accelerator, MAIN10, Vivanta, and Wolf Decentralized",
+  //     "Led magazine and podcast production for college events",
+  //     'Contributed to alumni magazine "Together Again"',
+  //     "Helped shift the campus community from WhatsApp Groups to Channels for official comms",
+  //   ],
+  //   hobbies: [
+  //     "Cooking and experimenting with food",
+  //     "Designing interfaces, brands, and visual ideas",
+  //     "Having deep conversations with friends and loved ones over chai",
+  //     "Working out at the gym",
+  //     "Spontaneous outings and long drives",
+  //     "Watching good shows or films with meaning",
+  //   ],
+  //   values: [
+  //     "Integrity and ethics",
+  //     "Emotional intelligence",
+  //     "Collaboration and teamwork",
+  //     "Creativity with purpose",
+  //     "Growth and self-awareness",
+  //     "Standing up for what’s right",
+  //   ],
+  //   imageUrl: "/images/personalities/tanishq.png", // Replace with actual image if you have one or want to customize
+  //   greeting:
+  //     "Hey! I’m Tanishq — a designer, a builder, and a human-first creator. Whether it's crafting a UI, lifting at the gym, or cooking with family, I believe in doing everything with intention, heart, and a little bit of chai. What shall we create together?",
+  // },
   {
     id: "carryminati",
     name: "Ajey Nagar",
